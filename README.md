@@ -1,16 +1,14 @@
-# desafio_unimed_front
+# desafio Unimed Front
 
-A new Flutter project.
+Repositório com o front end da [solução apresentada aqui](https://github.com/jomasoares/apiClientes)
 
-## Getting Started
+## Como rodar
 
-This project is a starting point for a Flutter application.
+Baixe este projeto ou clone o repositório. Acesse a pasta /build/web/ e rode o seguinte comando, caso você tenha o Python instalado na sua máquina:
+```shell script
+python -m SimpleHTTPServer 
+```
+Caso não tenha, é só rodar a pastar com qualquer servidor web.
 
-A few resources to get you started if this is your first Flutter project:
+Abra o navegador e acesse o endereço *http://localhost:8000/*. **ATENÇÃO:** O back-end deve estar rodando na máquina também.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
