@@ -1,6 +1,6 @@
 # desafio Unimed Front
 
-Repositório com o front end da [solução apresentada aqui](https://github.com/jomasoares/apiClientes)
+Repositório com o front end da [solução apresentada aqui](https://github.com/jomasoares/apiClientes). Lembrando que como o foco do desafio era o back-end, o código aqui foi feito de maneira rápida e não segue os padrões ideais de organização e documentação. Futuramente eu tento deixar melhor!
 
 ## Como rodar
 
